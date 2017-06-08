@@ -20,7 +20,7 @@
 
 require 'chef'
 require 'chef/node'
-require 'chef/rest'
+require 'chef/server_api'
 require 'chef/role'
 require 'chef/environment'
 require 'chef/data_bag'
