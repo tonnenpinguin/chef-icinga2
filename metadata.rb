@@ -13,7 +13,7 @@ issues_url 'https://dev.icinga.org/projects/chef-icinga2' if respond_to?(:issues
 depends 'apt', '~> 5.0.1'
 depends 'yum', '~> 4.1.0'
 depends 'yum-epel', '~> 2.1.1'
-depends 'apache2', '~> 3.2.2'
+depends 'apache2', '~> 3.3'
 depends 'ulimit', '~> 0.4.0'
 depends 'pnp4nagios', '~> 0.2.8'
 
